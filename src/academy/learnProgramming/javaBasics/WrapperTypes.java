@@ -1,4 +1,4 @@
-package academy.learnProgramming;
+package academy.learnProgramming.javaBasics;
 
 public class WrapperTypes {
     public static void main(String[] args) {

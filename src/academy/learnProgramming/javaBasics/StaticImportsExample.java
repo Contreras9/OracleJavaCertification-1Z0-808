@@ -1,6 +1,6 @@
-package academy.learnProgramming;
+package academy.learnProgramming.javaBasics;
 
-import static academy.learnProgramming.Config.*;
+import static academy.learnProgramming.javaBasics.Config.*;
 import static java.lang.Math.PI;
 import static java.lang.Math.min;
 

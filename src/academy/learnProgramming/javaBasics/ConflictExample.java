@@ -1,4 +1,4 @@
-package academy.learnProgramming;
+package academy.learnProgramming.javaBasics;
 
 //import java.sql.*;
 
